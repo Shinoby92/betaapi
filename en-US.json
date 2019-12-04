@@ -1,0 +1,741 @@
+{
+  "texts": {
+    "button-donetext": "Done",
+    "button-canceltext": "Cancel",
+    "button-startovertext": "Start over",
+    "carttext": "My order",
+    "eatintext": "eat in",
+    "takeawaytext": "take away",
+    "cartedittext": "edit",
+    "premenu-languagepagetext": "where will you be eating today",
+    "premenu-languagebutton1": "Deutsch",
+    "premenu-languagebutton2": "Espanol",
+    "premenu-languagebutton3": "Francois",
+    "premenu-languagebutton4": "Turkce",
+    "button-nexttext": "Next",
+    "button-previoustext": "Previous",
+    "createyourwonder-scrollformoretext": "scroll for more",
+    "createyourwonder-ingredienttext": "Ingredients",
+    "createyourwonder-reviewtext": "review",
+    "nameityourwaytext": "name your wonders",
+    "chooseyourdrinktext": "choose your drink",
+    "shakepage-chooseshaketext": "choose your wonder shake",
+    "shakepage-sizetext": "SIZE",
+    "shakepage-size1": "Medium",
+    "shakepage-size2": "Large",
+    "paymentselectionpage-selecttext": "select your payment",
+    "paymentselectionpage-payheretext": "pay here",
+    "paymentselectionpage-payatcounter": "pay at counter",
+    "finnishpage-text1": "you are just moments away from your deliciousness",
+    "finnishpage-text2": "Almost done!",
+    "finnishpage-text3": "To complete your order, take your receipt and go to the front counter."
+  },
+  "dialogquestion": {
+    "ui": "dialogui",
+    "whipcream": [
+      {
+        "id": "toppings-whipcream",
+        "text": "make your choice",
+        "imgtext": "with whip cream",
+        "imgfile": "filehere",
+        "active": true
+      }
+    ]
+  },
+  "menu": {
+    "ui": "sidebarui",
+    "wonderwaffel": {
+      "ui": "gitterviewui",
+      "createyourwonder": {
+        "ui": "creatormodeui",
+        "text": "create your Wonder",
+        "previousmenuinfo": "create your own tasty Wonder Waffle",
+        "price": "",
+        "imgfile": "filehere",
+        "dough": [
+          {
+            "id": "dough-original",
+            "text": "Original Dough",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "dough-protein",
+            "text": "Protein Dough",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "dough-vegan",
+            "text": "Vegan Dough",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          }
+        ],
+        "sauce": [
+          {
+            "id": "sauce-nutella",
+            "text": "Nutella",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "sauce-whitecocolate",
+            "text": "white chocolate",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "sauce-buenocreme",
+            "text": "Bueno Creme",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": false
+          },
+          {
+            "id": "sauce-chocolate",
+            "text": "chocolate",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "sauce-bitterchocolate",
+            "text": "bitter chocolate",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "sauce-applemouse",
+            "text": "applemouse",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "sauce-strawberry",
+            "text": "strawberrysauce",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "sauce-caramell",
+            "text": "caramel sauce",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "sauce-peanutbutter",
+            "text": "peanut butter",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          }
+        ],
+        "fruits": [
+          {
+            "id": "fruit-strawberry",
+            "text": "strawberry",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "fruit-raspberries",
+            "text": "raspberries",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "fruit-pineapple",
+            "text": "pineapple",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": false
+          },
+          {
+            "id": "fruit-kiwi",
+            "text": "kiwi",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "fruit-cherrys",
+            "text": "cherries",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "fruit-hotcherries",
+            "text": "hot cherries",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "fruit-mango",
+            "text": "mangos",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "fruit-apple",
+            "text": "with cinnamon",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "fruit-banana",
+            "text": "banana",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          }
+        ],
+        "toppings": [
+          {
+            "id": "toppings-peanuts",
+            "text": "peanuts",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "toppings-caramel",
+            "text": "caramel",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "toppings-krokant",
+            "text": "krokant",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": false
+          }
+        ],
+        "specials": [
+          {
+            "id": "specials-bounty",
+            "text": "bounty",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "specials-giotto",
+            "text": "grottos",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "specials-bueno",
+            "text": "kinder bueno",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": false
+          }
+        ],
+        "icecream": [
+          {
+            "id": "icecream-vanilla",
+            "text": "vanilla",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": true
+          },
+          {
+            "id": "icecream-bluberrymuffin",
+            "text": "bluberrymuffin",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": false
+          },
+          {
+            "id": "icecream-bounty",
+            "text": "bountyice",
+            "infoline": "",
+            "imgfile": "filehere",
+            "available": false
+          }
+        ]
+      },
+      "klassiker2.0": {
+        "ui": "productui",
+        "text": "Classic 2.0",
+        "previousmenuinfo": "nutella, banana, strawberry, kiwi",
+        "price": "5.50",
+        "imgfile": "filehere",
+        "options": [
+          "dough-original",
+          "sauce-nutella",
+          "fruit-banana",
+          "fruit-strawberry",
+          "fruit-kiwi"
+        ]
+      },
+      "1.Klassiker": {
+        "ui": "productui",
+        "text": "Classic 1.0",
+        "previousmenuinfo": "nutella, banana, strawberry, caramellchunks, kinder bueno",
+        "price": "6.10",
+        "imgfile": "filehere",
+        "options": [
+          "dough-original",
+          "sauce-nutella",
+          "fruit-banana",
+          "fruit-strawberry",
+          "toppings-caramel",
+          "specials-bueno"
+        ]
+      },
+      "2.omasliebling": {
+        "ui": "productui",
+        "text": "2. Grandmother Favorites",
+        "previousmenuinfo": "hot cherries, vanilla ice cream , whip cream",
+        "price": "5.90",
+        "imgfile": "filehere",
+        "options": [
+          "dough-original",
+          "fruit-hotcherries",
+          "icecream-vanilla",
+          "toppings-whipcream"
+        ]
+      },
+      "3.apfelrucksack": {
+        "ui": "productui",
+        "text": "3.Apfelrucksack",
+        "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
+        "price": "5.50",
+        "imgfile": "filehere",
+        "options": [
+          "dough-original",
+          "sauce-applemouse",
+          "fruit-apple",
+          "fruit-banana",
+          "specials-bueno"
+        ]
+      },
+      "4.Kidz": {
+        "ui": "productui",
+        "text": "4.Kidz",
+        "previousmenuinfo": "nutella, strawberry,smarties",
+        "price": "7.30",
+        "imgfile": "filehere",
+        "options": [
+          "dough-original",
+          "sauce-applemouse",
+          "fruit-apple",
+          "fruit-banana",
+          "specials-bueno"
+        ]
+      },
+      "5.Schockotraum": {
+        "ui": "productui",
+        "text": "5.Schockotraum",
+        "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
+        "price": "7.70",
+        "imgfile": "filehere",
+        "options": [
+          "dough-original",
+          "sauce-applemouse",
+          "fruit-apple",
+          "fruit-banana",
+          "specials-bueno"
+        ]
+      },
+      "6.Tropical": {
+        "ui": "productui",
+        "text": "6.Tropical",
+        "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
+        "price": "6.70",
+        "imgfile": "filehere",
+        "options": [
+          "dough-original",
+          "sauce-applemouse",
+          "fruit-apple",
+          "fruit-banana",
+          "specials-bueno"
+        ]
+      },
+      "7.Proteinz": {
+        "ui": "productui",
+        "text": "7.Proteinz",
+        "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
+        "price": "7.50",
+        "imgfile": "filehere",
+        "options": [
+          "dough-protein",
+          "sauce-applemouse",
+          "fruit-apple",
+          "fruit-banana",
+          "specials-bueno"
+        ]
+      },
+      "8.peanutspecial": {
+        "ui": "productui",
+        "text": "8.Peanutspecial",
+        "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
+        "price": "7.50",
+        "imgfile": "filehere",
+        "options": [
+          "dough-protein",
+          "sauce-applemouse",
+          "fruit-apple",
+          "fruit-banana",
+          "specials-bueno"
+        ]
+      }
+    },
+    "shakes": {
+      "ui": "fancyui",
+      "strawberryshake": {
+        "text": "strawberry",
+        "imgfile": "filehere",
+        "size": [
+          "medium",
+          "large"
+        ],
+        "price": [
+          "4.40",
+          "4.90"
+        ]
+      },
+      "mangoshake": {
+        "text": "Mango",
+        "imgfile": "filehere",
+        "size": [
+          "medium",
+          "large"
+        ],
+        "price": [
+          "4.40",
+          "4.90"
+        ]
+      },
+      "oreoshake": {
+        "text": "strawberry",
+        "imgfile": "filehere",
+        "size": [
+          "medium",
+          "large"
+        ],
+        "price": [
+          "4.40",
+          "4.90"
+        ]
+      },
+      "buenoshake": {
+        "text": "strawberry",
+        "imgfile": "filehere",
+        "size": [
+          "medium",
+          "large"
+        ],
+        "price": [
+          "4.40",
+          "4.90"
+        ]
+      },
+      "snickershake": {
+        "text": "strawberry",
+        "imgfile": "filehere",
+        "size": [
+          "medium",
+          "large"
+        ],
+        "price": [
+          "4.40",
+          "4.90"
+        ]
+      },
+      "kinderriegelshake": {
+        "text": "strawberry",
+        "imgfile": "filehere",
+        "size": [
+          "medium",
+          "large"
+        ],
+        "price": [
+          "4.40",
+          "4.90"
+        ]
+      },
+      "raffaelloshake": {
+        "text": "strawberry",
+        "imgfile": "filehere",
+        "size": [
+          "medium",
+          "large"
+        ],
+        "price": [
+          "4.40",
+          "4.90"
+        ]
+      },
+      "giottoshake": {
+        "text": "strawberry",
+        "imgfile": "filehere",
+        "size": [
+          "medium",
+          "large"
+        ],
+        "price": [
+          "4.40",
+          "4.90"
+        ]
+      },
+      "tofifeeshake": {
+        "text": "strawberry",
+        "imgfile": "filehere",
+        "size": [
+          "medium",
+          "large"
+        ],
+        "price": [
+          "4.40",
+          "4.90"
+        ]
+      },
+      "maxikingshake": {
+        "text": "maxi king",
+        "imgfile": "filehere",
+        "specialize": [
+          "whipcream"
+        ],
+        "size": [
+          "large"
+        ],
+        "price": [
+          "6.50"
+        ]
+      },
+      "cheesecakestrawberry": {
+        "text": "cheesecakestrawberry",
+        "imgfile": "filehere",
+        "specialize": [
+          "cheesecake"
+        ],
+        "size": [
+          "large"
+        ],
+        "price": [
+          "6.90"
+        ]
+      }
+    },
+    "hotdrinks": {
+      "ui": "gitterviewui",
+      "cafecrema": {
+        "ui": "productui",
+        "text": "Cafe Crema",
+        "previousmenuinfo": "small",
+        "price": "2.20",
+        "imgfile": "filehere"
+      },
+      "cafecremasmall": {
+        "ui": "productui",
+        "text": "Cafe Crema",
+        "previousmenuinfo": "small",
+        "price": "2.20",
+        "imgfile": "filehere"
+      },
+      "cafecremagrande": {
+        "ui": "productui",
+        "text": "Cafe Crema",
+        "previousmenuinfo": "grande",
+        "price": "3.50",
+        "imgfile": "filehere"
+      },
+      "cappucinosmall": {
+        "ui": "productui",
+        "text": "Cappuccino",
+        "previousmenuinfo": "small",
+        "price": "2.80",
+        "imgfile": "filehere"
+      },
+      "cappucinogrande": {
+        "ui": "productui",
+        "text": "Cappuccino",
+        "previousmenuinfo": "grande",
+        "price": "3.80",
+        "imgfile": "filehere"
+      },
+      "cafeaulait": {
+        "ui": "productui",
+        "text": "Cafe au lait",
+        "previousmenuinfo": "",
+        "price": "2.80",
+        "imgfile": "filehere"
+      },
+      "espressonormal": {
+        "ui": "productui",
+        "text": "Espresso",
+        "previousmenuinfo": "normal",
+        "price": "2.20",
+        "imgfile": "filehere"
+      },
+      "espressodubio": {
+        "ui": "productui",
+        "text": "Espresso",
+        "previousmenuinfo": "dubio",
+        "price": "3.50",
+        "imgfile": "filehere"
+      },
+      "item1": {
+        "ui": "productui",
+        "text": "Espresso",
+        "previousmenuinfo": "dubio",
+        "price": "3.50",
+        "imgfile": "filehere"
+      },
+      "item2": {
+        "ui": "productui",
+        "text": "Espresso",
+        "previousmenuinfo": "dubio",
+        "price": "3.50",
+        "imgfile": "filehere"
+      },
+      "item3": {
+        "ui": "productui",
+        "text": "Espresso",
+        "previousmenuinfo": "dubio",
+        "price": "3.50",
+        "imgfile": "filehere"
+      },
+      "item4": {
+        "ui": "productui",
+        "text": "Espresso",
+        "previousmenuinfo": "dubio",
+        "price": "3.50",
+        "imgfile": "filehere"
+      },
+      "item5": {
+        "ui": "productui",
+        "text": "Espresso",
+        "previousmenuinfo": "dubio",
+        "price": "3.50",
+        "imgfile": "filehere"
+      }
+    },
+    "icecream": {
+      "ui": "gitterviewui",
+      "item1": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item2": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item3": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item4": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item5": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item6": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item7": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      }
+    },
+    "colddrinks": {
+      "ui": "gitterviewui",
+      "item1": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item2": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item3": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item4": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item5": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item6": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      },
+      "item7": {
+        "ui": "productui",
+        "text": "icecream1",
+        "previousmenuinfo": "",
+        "price": "1.20",
+        "imgfile": "filehere"
+      }
+    }
+  }
+}
