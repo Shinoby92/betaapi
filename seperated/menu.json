@@ -1,31 +1,31 @@
 [
   {
     "ui": "gitterviewui",
-	"id" : "wonderwaffle",
+    "id" : "wonderwaffle",
     "visiblename" : "Wonder Waffle",
     "imgfile": "filehere"
   },
   {
     "ui": "fancyui",
-	"id" : "shakes",
+    "id" : "shakes",
     "name": "Shakes",
     "imgfile": "filehere"
   },
   {
     "ui": "gitterviewui",
-	"id" : "hotdrinks",
+    "id" : "hotdrinks",
     "name": "Hot Drinks",
     "imgfile": "filehere"
   },
   {
     "ui": "gitterviewui",
-	"id" : "icecream",
+    "id" : "icecream",
     "name": "Ice Cream",
     "imgfile": "filehere"
   },
   {
     "ui": "gitterviewui",
-	"id" : "colddrinks",
+    "id" : "colddrinks",
     "name": "Cold Drinks",
     "imgfile": "filehere"
   }
