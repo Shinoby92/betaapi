@@ -1,128 +1,23 @@
-{
-  "klassiker2.0": {
+[
+  {
     "ui": "productui",
     "text": "Classic 2.0",
     "previousmenuinfo": "nutella, banana, strawberry, kiwi",
     "price": "5.50",
-    "imgfile": "filehere",
-    "options": [
-      "dough-original",
-      "sauce-nutella",
-      "fruit-banana",
-      "fruit-strawberry",
-      "fruit-kiwi"
-    ]
+    "imgfile": "filehere"
   },
-  "1.Klassiker": {
+  {
     "ui": "productui",
     "text": "Classic 1.0",
     "previousmenuinfo": "nutella, banana, strawberry, caramellchunks, kinder bueno",
     "price": "6.10",
-    "imgfile": "filehere",
-    "options": [
-      "dough-original",
-      "sauce-nutella",
-      "fruit-banana",
-      "fruit-strawberry",
-      "toppings-caramel",
-      "specials-bueno"
-    ]
+    "imgfile": "filehere"
   },
-  "2.omasliebling": {
+  {
     "ui": "productui",
     "text": "2. Grandmother Favorites",
     "previousmenuinfo": "hot cherries, vanilla ice cream , whip cream",
     "price": "5.90",
-    "imgfile": "filehere",
-    "options": [
-      "dough-original",
-      "fruit-hotcherries",
-      "icecream-vanilla",
-      "toppings-whipcream"
-    ]
-  },
-  "3.apfelrucksack": {
-    "ui": "productui",
-    "text": "3.Apfelrucksack",
-    "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
-    "price": "5.50",
-    "imgfile": "filehere",
-    "options": [
-      "dough-original",
-      "sauce-applemouse",
-      "fruit-apple",
-      "fruit-banana",
-      "specials-bueno"
-    ]
-  },
-  "4.Kidz": {
-    "ui": "productui",
-    "text": "4.Kidz",
-    "previousmenuinfo": "nutella, strawberry,smarties",
-    "price": "7.30",
-    "imgfile": "filehere",
-    "options": [
-      "dough-original",
-      "sauce-applemouse",
-      "fruit-apple",
-      "fruit-banana",
-      "specials-bueno"
-    ]
-  },
-  "5.Schockotraum": {
-    "ui": "productui",
-    "text": "5.Schockotraum",
-    "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
-    "price": "7.70",
-    "imgfile": "filehere",
-    "options": [
-      "dough-original",
-      "sauce-applemouse",
-      "fruit-apple",
-      "fruit-banana",
-      "specials-bueno"
-    ]
-  },
-  "6.Tropical": {
-    "ui": "productui",
-    "text": "6.Tropical",
-    "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
-    "price": "6.70",
-    "imgfile": "filehere",
-    "options": [
-      "dough-original",
-      "sauce-applemouse",
-      "fruit-apple",
-      "fruit-banana",
-      "specials-bueno"
-    ]
-  },
-  "7.Proteinz": {
-    "ui": "productui",
-    "text": "7.Proteinz",
-    "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
-    "price": "7.50",
-    "imgfile": "filehere",
-    "options": [
-      "dough-protein",
-      "sauce-applemouse",
-      "fruit-apple",
-      "fruit-banana",
-      "specials-bueno"
-    ]
-  },
-  "8.peanutspecial": {
-    "ui": "productui",
-    "text": "8.Peanutspecial",
-    "previousmenuinfo": "applemous, apple cinnamon, banana , tofifee",
-    "price": "7.50",
-    "imgfile": "filehere",
-    "options": [
-      "dough-protein",
-      "sauce-applemouse",
-      "fruit-apple",
-      "fruit-banana",
-      "specials-bueno"
-    ]
+    "imgfile": "filehere"
   }
-}
+]
