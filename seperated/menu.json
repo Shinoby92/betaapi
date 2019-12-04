@@ -1,32 +1,32 @@
 [
-  {
-    "ui": "gitterviewui",
-    "id" : "wonderwaffle",
-    "visiblename" : "Wonder Waffle",
-    "imgfile": "filehere"
-  },
-  {
-    "ui": "fancyui",
-    "id" : "shakes",
-    "name": "Shakes",
-    "imgfile": "filehere"
-  },
-  {
-    "ui": "gitterviewui",
-    "id" : "hotdrinks",
-    "name": "Hot Drinks",
-    "imgfile": "filehere"
-  },
-  {
-    "ui": "gitterviewui",
-    "id" : "icecream",
-    "name": "Ice Cream",
-    "imgfile": "filehere"
-  },
-  {
-    "ui": "gitterviewui",
-    "id" : "colddrinks",
-    "name": "Cold Drinks",
-    "imgfile": "filehere"
-  }
+    {
+      "ui": "gitterviewui",
+      "id" : "wonderwaffle",
+      "visiblename" : "Wonder Waffle",
+      "imgfile": "filehere"
+    },
+    {
+      "ui": "fancyui",
+      "id" : "shakes",
+      "visiblename" : "Wonder Shake",
+      "imgfile": "filehere"
+    },
+    {
+      "ui": "gitterviewui",
+      "id" : "hotdrinks",
+      "visiblename" : "Hot Drinks",
+      "imgfile": "filehere"
+    },
+    {
+      "ui": "gitterviewui",
+      "id" : "icecream",
+      "visiblename" : "Ice Cream",
+      "imgfile": "filehere"
+    },
+    {
+      "ui": "gitterviewui",
+      "id" : "colddrinks",
+      "visiblename" : "Cold Drinks",
+      "imgfile": "filehere"
+    }
 ]
