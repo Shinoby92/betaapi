@@ -3,30 +3,30 @@
       "ui": "gitterviewui",
       "id" : "wonderwaffle",
       "visiblename" : "Wonder Waffle",
-      "imgfile": "filehere"
+      "imgfile": "https://github.com/Shinoby92/betaapi/raw/master/images/1.png"
     },
     {
       "ui": "fancyui",
       "id" : "shakes",
       "visiblename" : "Wonder Shake",
-      "imgfile": "filehere"
+      "imgfile": "https://github.com/Shinoby92/betaapi/raw/master/images/2.png"
     },
     {
       "ui": "gitterviewui",
       "id" : "hotdrinks",
       "visiblename" : "Hot Drinks",
-      "imgfile": "filehere"
+      "imgfile": "https://raw.githubusercontent.com/Shinoby92/betaapi/master/images/3.png"
     },
     {
       "ui": "gitterviewui",
       "id" : "icecream",
       "visiblename" : "Ice Cream",
-      "imgfile": "filehere"
+      "imgfile": "https://raw.githubusercontent.com/Shinoby92/betaapi/master/images/4.png"
     },
     {
       "ui": "gitterviewui",
       "id" : "colddrinks",
       "visiblename" : "Cold Drinks",
-      "imgfile": "filehere"
+      "imgfile": "https://raw.githubusercontent.com/Shinoby92/betaapi/master/images/5.png"
     }
 ]
